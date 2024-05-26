@@ -1,4 +1,4 @@
-## Hi there 👋
+## Rocket Propulsion Group is an Aerospace team focused on the development and research of solid propellant rocket motors. The team's goal is to eventually participate in Spaceport America Cup in New Mexico in the Student Reasearch and Design category.  Recently RPG has been focusing on designing and building their first rocket motor using the MIT recipe Cherry Limeade as well as setting up their testing and mixing sites for current and future uses.
 
 <!--
 
